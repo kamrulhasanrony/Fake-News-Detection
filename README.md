@@ -110,7 +110,7 @@ The training script (```train.py```) includes:
 ### Loss function
 A class-weighted loss function is created from the training distribution. In the current training script, the final optimization step uses standard cross-entropy loss.
 
-** DOWNLOAD THE COMPLETE CODEBASE AS A ZIP FILE AND DOWNLOAD THE PRE-TRAINED MODEL FROM THE LINK [HERE](https://txst-my.sharepoint.com/:u:/g/personal/sii25_txstate_edu/IQA8AFR5l99FSJrkI2hpblDjAZthl68vgmCE2UUIGCfWgHE). THE DATASET IS ALREADY INCLUDED IN THIS REPOSITORY. **
+**DOWNLOAD THE COMPLETE CODEBASE AS A ZIP FILE AND DOWNLOAD THE PRE-TRAINED MODEL FROM THE LINK [HERE](https://txst-my.sharepoint.com/:u:/g/personal/sii25_txstate_edu/IQA8AFR5l99FSJrkI2hpblDjAZthl68vgmCE2UUIGCfWgHE). THE DATASET IS ALREADY INCLUDED IN THIS REPOSITORY.**
 
 ## Project Structure
 
